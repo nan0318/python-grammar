@@ -1,0 +1,11 @@
+# 这是一个注释
+
+# Python提供了一个input()，可以让用户输入字符串，并存放到一个变量里。
+name = input()  #输入：Michael
+print(name)
+print('hello,', name)
+'''
+Output:
+Michael
+hello, Michael
+'''
